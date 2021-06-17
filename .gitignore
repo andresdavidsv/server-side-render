@@ -78,3 +78,5 @@ dist/
 #Public
 
 src/server/public
+
+next/node_modules
